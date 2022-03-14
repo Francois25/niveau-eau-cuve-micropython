@@ -85,6 +85,6 @@ def error():
     utime.sleep(1)
     
 
-#wificonnect.connect()
+wificonnect.connect()
 while True:
     affichage()
